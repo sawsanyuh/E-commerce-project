@@ -4,7 +4,7 @@ import { useState, useEffect } from "react";
 const Hero = () => {
   // List of product images
   const productImages = [
-    assets.hero_img,
+    assets.hero_4,
     assets.hero_3,
     assets.hero_2,
     assets.hero_1,
