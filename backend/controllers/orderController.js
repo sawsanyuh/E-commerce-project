@@ -4,7 +4,7 @@ import Stripe from "stripe";
 //import razorpay from "razorpay";
 
 // Global variables
-const currency = "JD";
+const currency = "USD";
 const deliveryCharge = 10;
 
 // Gateway Initialize
