@@ -152,7 +152,8 @@ const Navbar = () => {
           <NavLink
             className="py-4 pl-6 border"
             onClick={() => setVisible(false)}
-            to="https://forever-admin-pannel.vercel.app"
+            //to="https://forever-admin-pannel.vercel.app"
+            to="http://localhost:5174/"
             target="_blank"
           >
             <p>Admin Panel</p>
